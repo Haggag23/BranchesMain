@@ -2,3 +2,4 @@ first line from feature 1
 
 second line from feature 1
 
+third line from feature 1 
